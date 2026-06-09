@@ -15,4 +15,4 @@ Web VAPT · Active Directory · AWS Cloud Security ·
 Burp Suite · BloodHound · Impacket · Metasploit
 
 ## Contact
-LinkedIn: [[your linkedin URL](https://www.linkedin.com/in/dhana-aravindhan-s-b66b33251/)]
+LinkedIn: [(https://www.linkedin.com/in/dhana-aravindhan-s-b66b33251/)]
